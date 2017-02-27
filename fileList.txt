@@ -1,0 +1,5 @@
+fileName	expName
+vars_1Fmerged_4999.txt	MM10_gen5
+vars_MEmerged_4998.txt  MM10_gen5
+vars_1FsubSampled_4998.txt	MM10ss_gen5
+vars_MEsubSampled_4998.txt	MM10ss_gen5
